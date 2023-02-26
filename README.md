@@ -1,5 +1,7 @@
 # The Quest
 
+`npm install`
+
 Editer `frontend/src/components/challenge.ts`
 
 ## Les énigmes

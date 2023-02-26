@@ -1,7 +1,7 @@
 import {Game} from "./game";
 
 
-const game = new Game("ws://localhost:3000")
+const game = new Game("ws://35.219.136.219:8080/")
 
 game.onQuestion((question) => {
 
